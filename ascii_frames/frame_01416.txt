@@ -1,0 +1,40 @@
+           .                                                         ....,;.,;.,;>,QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ;.,bybybybybybybyby
+         .........                                                    ...;.,;>>>>>>>QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ.,;ybybybybybybybyb
+       .............                                                    ..,;.,>>>>>>>.QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ;.bybybybybybybyby
+   .n^n^; ......,;...                                                     ;.,;.>>>>>zz;QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ;<,ybybybybybybybyb
+  .,;n^jYjYjYjYjYj++..                                                     ,;.,;>>zzzzzz;QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ.,ybybybybybybybyby
+   ;zzzzz;jYjYjYjY+++YjYjYjY+,                                               ,;.,>zzzzz+zz;QQQQQQQQQQQQQQQQQQQ,;.,QQ,;QQQQQQQQQQQQQQQQQQQ,;bybybybybybybybyb
+     ;zz:??xzj^QQQ:+YjYjYjYj++>                                               .,;.,;>zzz>zz,QQQQQQQQQQQQQQQQ.,;.,;.,;z>;QQQQQQQQQQQQQQQQQ;>:bybybybybybybyby
+     ..<??>Yj+QQQQQzn,;.,^nY+++;                                               ;.,;.,zzz>>>>z,;QQQQQQQQQQQQ.,;.,ybyb.,>+,QQQQQQQQQQQQQQQQQ::ybybybybybybybyb
+      ..++Yj+],QQQQQQQQQQQQQQ+++>                                                ;.,;.,;>>>zznzz;QQQQQQQQQ.,;.bybybyby<<;QQQQQQQQQQQQQQQQ,x<bybybybybybybyby
+       .;znz]?;QQQQQQQQQQQQQQ:]]]                                                 .;.,;.,>>zzzzzzz;.,QQQQ.,;ybybybybnYjY.QQQQQQQQQQQQQQ.nYj,ybybybybybybybyb
+         ...]]QQQQQQQQQQQQQQQ<???                                                  .,;.,;.,;.zzzzz^zzz,;.,QQbybyby^jYj^QQQQQQQQQQQQQQn^jYn,ybybybybybybybyby
+           .]]]QQQQQQQQQQQQQQ:]+++z                                                 ..,;.,;.,;.,;.,;zzz^,;Qbybyb.YjYxQQQQQQQQQQQQQQ,n^n;.bybybybybybybybybyb
+     ...   .:]]QQQQQQQQQQQQQQQ+++++++>                                               ,;.,;.,zz,;.,;.zzz,;.bybyb.*j.QQQQQQQQQQQQQQQQ:<,bybybybybybybybybybyby
+     .......*??QQQQQQQQQQQQQQQQQz+j+++++;                                             ....,;.zz.,;.,;.,;.bybyb.*xQQQQQQQQQQQQQQQQQQ:];.,;.,;ybybybybybybybyb
+    .......***xQQQQQQQQQQQQQQQQQQQQ,+++++++.                                            ....,;.,;.,;.,;.bybyb.*xQQ;QQQQQQQQQQQQQQQQQ]],;.,b.,ybybybybybybyby
+    .... *jY*xQQQQQQQQQQQQQQQQQQQQQQQ,++++++;                                             ....,;.,;.ybybybyby??QQ;QQQQQQQQQQQQQQQQQQ:]:.,bybybybybybybybybyb
+       ;YjY*,QQQQQQQQQQQQQQQQQQQQQQQQQQQQ]]].                                              .....,;..bybybyby<?QQQQQQQQQQQQQQQQQQQQQQ,]]<b...bybybybybybybyby
+      **jYxQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ?**                                                  .......bybybyb??QQ.QQQQQQQQQQQQQQQQQQQQ]]].....bybybybybybybyb
+     ****QQQQQQQQQQQQQQx^,QQQQQQQQQQQQQQ<]?                                                   .......ybybyby],;.QQQQQQQQQQQQQQQQQ.,QQ:]],;.....ybybybybybyby
+     ??xQQQQQQQQQQQQQQx*+]QQQQQQQQQQQQQQ:]]                                                    .......ybybyb];.:QQQQQQQQQQQQQQQQ<*+:QQ]]].......ybyby.ybybyb
+    :]]QQQQQQQQQQQQQQQ**+++>QQQQQQQQQQQQQ]]>                                                   .......bybyby>nz>Q,QQQQQQQQQQQQQQ:]<]QQ,]]........ybybybybyby
+    :]]QQQQQQQQQQQQQQ**Y+++]QQQQQQQQQQQQQ]]+                                                    .......bybybyby::;QQQQQQQQQQQQQQ;+jxQQQ]+++z.........bybybyb
+    ]]]QQQQQQ;.QQQQQ***n>???QQQQQQQQQQQQQ.+++                 ......                            .......;.ybybyby::QQQQQQQQQQQQQQQQQQQQQ>++++++..,.....bybyby
+    ]]]QQQQ,jYj++:Q<??x<***xQQQQQQQQQQQQQQ>+++              .........                           ........,bybybyb<<QQQQQQQQQQQQQQQQQQQQQQQ,++++++......ybybyb
+    >+++YjYjYj++]:.<]]^***;QQQQQQQQQQQQQQQQ>+++            ..........                            ......y;.,;bybQ:;QQQQQQQQQQQQQQQQQQQQQQQQQQ;++++z..,....yby
+     +++jYjYj^]??xjYj]j**QQQQQQQQQQQQQQQQQQQ++++            ..........                            ......y,;.,byb:.QQQQQQQQQQQQQQQQQQQQQQQQQQQQ>++++,......yb
+       z^n    ]]:?*j+***QQQQQQQQQQQQQQQQQQQQQ++++            ............                         ......b;.,;yb;:,QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQz++++z..,;..
+              ]++?]Y**xQQQQQQQQQQQQQQQQQQQQQQQ++++           .............                        ......ybybyby:?QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQz++++,....
+               ++.Yj*,QQQQQQQQQQQQQQQQQQQQQQQQQ++++           ..............                      .....ybybyby.?<QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQz+++>...
+               ***jYQQQQQQQQQQQQQQQQQQQQQQQQQQQQ++++          ..............                    .......bybybyb??.QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ++]...
+             nYjYj.QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ++++               ........              ............bybybyby]]QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ]]]..
+           xjYj*xQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ++++                 .....             .............ybybyby;]:QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ:]]. 
+          *jYjY;QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ+++>                                  .............bybybyb.?<QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ]]: 
+        ;**Yj,QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ]]]                  ,;.             .............ybybyby:]:QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ]]] 
+        ?***QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ;]]                                  .............bybybyb;]]QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQn^nYj*?< 
+       .??xQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ]]:                                   ...........ybybybyb]].QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ,jYjYjYjYj*  
+       ,]+YjYjYjY+>QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQjYjYj?<                                  .,...........ybybyby:+YjY+zQQQQQ;n,QQQQQQQ.nYjYjYjYjYjYjYjYjYj;...
+        ++jYjYjYj+++jYjYj+.QQQQQQQQQQQxYjYjYjYjYjYjYjYj                                  .,;...........bybybyb.zjYjY++;QQx*Y++,QQQxYjYjYjYjYjYjYjx..........
+           ,;., .++jYjYj++:QQ,YjY++QQ.*jYjYjYjYjYjY;                               .. ,;.,.................ybybyby;n+]]QQ??j+++QQQ??YjYj^n^n^n..............
+                  .+jYjY]]]QQ<?Yj+]QQ<??n^n^n^j^n                                  ............................by...;]]QQ]]:.]]:QQ]]:.......................
